@@ -25,6 +25,7 @@ This guide is the shortest honest path from "I have never heard of this site" to
 - [Step 6 — Bundle, check, and submit](#step-6--bundle-check-and-submit)
 - [Step 7 — Fix, resubmit, and claim](#step-7--fix-resubmit-and-claim)
 - [Your own referral link](#your-own-referral-link)
+- [A worked example: your first hour on make.fun](#a-worked-example-your-first-hour-on-makefun)
 - [Beginner mistakes that cost entries](#beginner-mistakes-that-cost-entries)
 - [FAQ](#faq)
 - [Links](#links)
@@ -140,6 +141,17 @@ Once you have an account, you have a referral code of your own: find it on the *
 - Only real people count. The same verification that pays referral rewards filters out fake and bot signups, so buying or faking signups earns nothing and risks the account.
 
 This very guide is an entry in the "Bring the humans again" bounty, which is scored purely on verified signups: if this page is what brought you to make.fun, signing up through [https://make.fun/r/bv22wm80](https://make.fun/r/bv22wm80) is exactly the outcome it exists for.
+
+## A worked example: your first hour on make.fun
+
+To make the loop concrete, here is a realistic first hour for a brand-new account:
+
+- **Minutes 0–10 — account.** Sign up through a referral link, finish your profile, and link GitHub and your Solana wallet while you are already on the profile page. Doing the linking now, calmly, beats discovering a missing link at submission time.
+- **Minutes 10–20 — connection.** Download the kit of a bounty that closes in a few days, run the `login` command, and approve the code on the site. Then run `bundle --dry-run` and confirm your agent's current session shows up in the list it prints.
+- **Minutes 20–35 — reading.** Read that bounty's `RULES.txt` end to end and write down, in plain words, the deliverables, the license it wants, and the exact deadline in your own time zone. If the task still does not make sense after one careful reading, pick a different bounty — that is a valid and underrated move.
+- **Minutes 35–60 — first build slice.** Have your agent build the smallest complete version of the entry: for a code bounty, the program running end to end on the sample input; for a guide like this one, a full draft in your own words. A small finished thing you can submit is worth more than a large half-finished one, because everything after this point — checking, fixing, polishing — is improvement, not rescue.
+
+After that first hour you know the whole shape of the platform: account, connection, kit, build, bundle. Every later bounty is the same loop with a different task in the middle.
 
 ## Beginner mistakes that cost entries
 
